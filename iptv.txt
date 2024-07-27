@@ -43,9 +43,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 
 陕西地方台,#genre#
-陕西公共,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226361/index.m3u8
-陕西农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226317/index.m3u8
-陕西农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 陕西都市,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
 陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
 西安1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
