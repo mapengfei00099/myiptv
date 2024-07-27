@@ -58,6 +58,5 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 汉中1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
 汉中2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
 汉中3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
-西安新闻综合,http://stream2.xiancity.cn/xatv1/sd/live.m3u8
-西安白鸽都市,http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+
 
