@@ -39,3 +39,7 @@ CCTV-17农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/inde
 黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
 城固,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226920/index.m3u8
 
+汉中1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226331/index.m3u8
+汉中2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225990/index.m3u8
+汉中3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
+
