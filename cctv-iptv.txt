@@ -1,4 +1,4 @@
-
+央视,#genre#
 CCTV1,http://bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
 CCTV1,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078203.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024078203.m3u8?key=txiptv&playlive=1&authid=0
@@ -74,7 +74,7 @@ CCTV4K,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024081303.m3u8?key=txiptv&playl
 CCTV8K,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2020603421.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8K,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2020603421.m3u8?key=txiptv&playlive=1&authid=0
 
-  
+卫视,#genre#
 东方卫视,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024054503.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://bkbktlivecloud-cdn.ysp.cctv.cn/sx/2024054503.m3u8?key=txiptv&playlive=1&authid=0#http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024054503.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://106.63.21.209/bkbktlivecloud-cdn.ysp.cctv.cn/ysp/2024054502.m3u8
