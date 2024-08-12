@@ -171,7 +171,6 @@ CHC动作电影,http://124.165.59.248:8005/rtp/226.0.2.94:8012
 CHC动作电影,http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
 CHC动作电影,http://183.189.213.105:8000/rtp/226.0.2.94:8012
 CHC动作电影,https://www.goodiptv.club/huya/11602077
-CHC动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 CHC动作电影,http://www.91dos.cn:4022/rtp/239.61.3.16:9616
 CHC动作电影,http://119.98.133.156:8888/rtp/239.69.1.242:11094
 CHC动作电影,http://118.254.157.252:8888/udp/239.76.245.243:1234
@@ -230,10 +229,6 @@ CHC动作电影,http://123.189.36.155:9901/tsfile/live/1101_1.m3u8
 CHC动作电影,http://124.94.193.136:9902/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC动作电影,http://118.254.158.191:8888/udp/239.76.245.243:1234
 CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/index.m3u8?&encrypt=
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
-CHC动作电影,http://mi.homeway.top:8888/udp/225.1.1.221:5002
-CHC动作电影,http://118.254.200.222:8888/udp/239.76.245.243:1234
-CHC动作电影,http://183.185.223.157:8082/rtp/226.0.2.94:8012
 
 
 港·澳·台,#genre#
