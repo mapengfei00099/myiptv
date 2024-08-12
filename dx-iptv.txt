@@ -1,5 +1,6 @@
 央视频道,#genre#
 CCTV1,http://115.222.143.106:8808/udp/233.50.200.99:5140
+CCTV1,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 CCTV2,http://115.222.143.106:8808/udp/233.50.200.25:5140
 CCTV3,http://110.178.52.143:8083/udp/239.1.1.9:8009
 CCTV3,http://115.222.143.106:8808/udp/233.50.200.107:5140
