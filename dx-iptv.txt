@@ -14,6 +14,8 @@ CCTV9,http://110.178.52.143:8083/udp/239.1.1.16:8016
 CCTV10,http://115.222.143.106:8808/udp/233.50.200.22:5140
 CCTV11,http://36.105.40.130:8084/udp/238.125.4.83:5140
 CCTV12,http://115.222.143.106:8808/udp/233.50.200.21:5140
+CCTV13,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/01.m3u8?&HlsSubType=&encrypt=
+CCTV13,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv13/57/20220913/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 CCTV16,http://115.222.143.106:8808/udp/233.50.200.112:5140
 CCTV17,http://115.222.143.106:8808/udp/233.50.200.113:5140
 CGTN,https://0472.org/hls/cgtn.m3u8
