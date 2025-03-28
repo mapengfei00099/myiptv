@@ -1,0 +1,13 @@
+main:
+  push:
+    - stages:
+        - name: sync to github
+          image: tencentcom/git-sync
+          imports: https://cnb.cool/mapengfei00099/build_var/-/blob/main/myiptv.yaml
+          settings:
+            target_url: https://github.com/mapengfei00099/myiptv.git
+            auth_type: https
+            git_email: 'github-actions[bot]@users.noreply.github.com'
+            username: ${GIT_USERNAME}
+            password: ${GIT_ACCESS_TOKEN}
+            branch: main
