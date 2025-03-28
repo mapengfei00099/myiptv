@@ -78,3 +78,7 @@ CCTV风云音乐,http://video.qd.sdu.edu.cn/liverespath/1e9d4739cc4b85ecee244729
 CCTV风云足球,http://video.qd.sdu.edu.cn/liverespath/81e55ce4e9ccb0c0120518cf06d41b7f6519f20b/index.m3u8
 CCTV国防军事,http://video.qd.sdu.edu.cn/liverespath/10eff5109cadc23434329348ad589e332c194530/index.m3u8
 CCTV怀旧剧场,http://video.qd.sdu.edu.cn/liverespath/194d8f435913ec8413369b8b54029ff3c9a72cb7/index.m3u8
+
+
+
+
