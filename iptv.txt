@@ -135,6 +135,7 @@ CCTV4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227140/index.m3u8
 湖南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 贵州卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 重庆卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+
 陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001299?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
