@@ -155,6 +155,7 @@ CCTV4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227140/index.m3u8
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 
 北京卫视4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227112/index.m3u8
+北京卫视4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 陕西地方台,#genre#
 陕西都市青春,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
