@@ -191,7 +191,6 @@ CHC家庭影院,http://211.137.115.109:80/gitv_live/G_CHCJTYY/G_CHCJTYY.m3u8
 北京卫视4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-
 北京卫视,http://211.137.115.109:80/gitv_live/G_BEIJING-MD/G_BEIJING-MD.m3u8
 北京卫视,http://211.137.115.109:80/gitv_live/BTV-1/BTV-1.m3u8
 浙江卫视,http://211.137.115.109:80/gitv_live/G_ZHEJIANG-MD/G_ZHEJIANG-MD.m3u8
@@ -237,5 +236,6 @@ CHC家庭影院,http://211.137.115.109:80/gitv_live/G_CHCJTYY/G_CHCJTYY.m3u8
 汉中3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
 西安新闻综合,https://xatv-yt.xiancity.cn/live/1/index.m3u8
 西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226366/index.m3u8
+西安教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 
 
