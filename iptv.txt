@@ -59,38 +59,21 @@ CHC影迷电影,http://211.137.115.109:80/gitv_live/G_CHCGQDY/G_CHCGQDY.m3u8
 CHC家庭影院,http://211.137.115.109:80/gitv_live/G_CHCJTYY/G_CHCJTYY.m3u8
 
 卫视频道,#genre#
-湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
-浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
-江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
-天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
-辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
-广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
-山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
-深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
-
-
-
-
-陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062?virtualDomain=yinhe.live_hls.zte.com
-浙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001026?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001027?virtualDomain=yinhe.live_hls.zte.com
+北京卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001025?virtualDomain=yinhe.live_hls.zte.com
+浙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001026?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001032?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028?virtualDomain=yinhe.live_hls.zte.com
-北京卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001025?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001299?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001031?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001030?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001029?virtualDomain=yinhe.live_hls.zte.com
 山东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001341?virtualDomain=yinhe.live_hls.zte.com
 天津卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001343?virtualDomain=yinhe.live_hls.zte.com
+陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062?virtualDomain=yinhe.live_hls.zte.com
 
 
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
@@ -131,19 +114,15 @@ CHC家庭影院,http://211.137.115.109:80/gitv_live/G_CHCJTYY/G_CHCJTYY.m3u8
 东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 
-北京卫视4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227112/index.m3u8
 北京卫视4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
 
-
 陕西地方台,#genre#
-陕西都市青春,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226358/index.m3u8
 陕西都市青春,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西新闻资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226357/index.m3u8
 陕西新闻资讯,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西生活,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-陕西公共,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西银龄,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001729/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西秦腔,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001739/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西体育休闲,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西西部电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 宝鸡1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
