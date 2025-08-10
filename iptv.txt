@@ -142,6 +142,3 @@ CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index
 凤凰卫视,http://171.213.230.182:8089/rtp/239.93.0.162:2192
 凤凰卫视,http://171.212.112.44:17777/rtp/239.93.0.162:2192
 凤凰卫视,http://101.204.217.95:17777/rtp/239.93.0.162:2192
-凤凰卫视,http://nas.swes.cn:8089/rtp/239.93.0.162:2192
-凤凰卫视,http://xcarchain.com:8888/rtp/239.93.0.162:2192
-凤凰卫视,http://www.xcarchain.com:8888/rtp/239.93.0.162:2192
