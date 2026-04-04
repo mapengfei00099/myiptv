@@ -67,15 +67,16 @@ CHC家庭影院,http://211.137.115.109:80/gitv_live/G_CHCJTYY/G_CHCJTYY.m3u8
 江苏卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001032?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001028?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001298?virtualDomain=yinhe.live_hls.zte.com
+深圳卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001029?virtualDomain=yinhe.live_hls.zte.com
+山东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001341?virtualDomain=yinhe.live_hls.zte.com
+广东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001031?virtualDomain=yinhe.live_hls.zte.com
+天津卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001343?virtualDomain=yinhe.live_hls.zte.com
+陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001296?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001297?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001299?virtualDomain=yinhe.live_hls.zte.com
-广东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001031?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001030?virtualDomain=yinhe.live_hls.zte.com
-深圳卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001029?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001341?virtualDomain=yinhe.live_hls.zte.com
-天津卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001343?virtualDomain=yinhe.live_hls.zte.com
-陕西卫视,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001062?virtualDomain=yinhe.live_hls.zte.com
+
 
 
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
@@ -117,9 +118,7 @@ CHC家庭影院,http://211.137.115.109:80/gitv_live/G_CHCJTYY/G_CHCJTYY.m3u8
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 
 北京卫视4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990100001022/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+
 
 陕西地方台,#genre#
 陕西都市青春,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001593/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
