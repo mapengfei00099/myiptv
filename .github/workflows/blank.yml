@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
   
   schedule: # schedule the job to run at 12 a.m. daily
-    - cron: "0 0 * * *"
+    - cron: "0 0 1 * *"
   
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
